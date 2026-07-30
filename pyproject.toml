@@ -1,0 +1,12 @@
+[project]
+name = "csvator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "networkx>=3.6.1",
+    "numpy>=2.5.1",
+    "pandas>=3.0.5",
+    "simpleeval>=1.0.7",
+]
